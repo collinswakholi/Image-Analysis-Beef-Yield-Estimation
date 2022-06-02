@@ -5,3 +5,5 @@
 3. Run "preprocess_data.m" to preprocess extracted features
 
 4. Run "model_carcass2.m" to develop models for prediction carcass yield
+
+see System_video.mp4
