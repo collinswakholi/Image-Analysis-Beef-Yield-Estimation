@@ -1,0 +1,3 @@
+The purpose of this deep learning model is to extract the ribline from any given carcass image
+
+created by Collins.W. 20190628 @CNU
